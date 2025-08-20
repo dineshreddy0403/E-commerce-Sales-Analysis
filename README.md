@@ -12,19 +12,16 @@ The workflow covers:
 ## Repository Structure
 ```text
 ecommerce-analytics/
-├── sql/
-│ ├── schema_and_inserts.sql # Create tables + insert sample data
+├── E-commerce_sql/
+│ ├── schema_and_inserts.sql # Create tables and insert data
 │ └── queries.sql # Analysis queries
-├── python/
-│ ├── data_cleaning.ipynb # Data preprocessing
-│ └── analysis.ipynb # EDA & visualization
-├── excel/
-│ └── ecommerce_dashboard.xlsx # Excel dashboard
+├── E-Commerce_Python.ipynb # Data preprocessing, analysis and visualization
+├── Excel_Summary_Dashboard.xlsx # Excel dashboard
 ├── data/
-│ └── sample_orders.csv # Sample dataset (not full data)
 ├── results/
-│ ├── figures/ # Charts & screenshots
-│ └── tables/ # Query outputs in CSV
+│ ├── Dashboard.png
+│ ├── revenue_by_region.png
+│ └── top_customers.png
 └── README.md
 ```
 
