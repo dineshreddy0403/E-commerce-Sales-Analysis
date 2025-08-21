@@ -56,10 +56,10 @@ ecommerce-analytics/
 
 
 ### Python Analysis – Revenue by Region
-<img width="1765" height="816" alt="Excel_Dashboard" src="https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Results/revenue_by_region.png" />
+<img width="600" height="350" alt="Excel_Dashboard" src="https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Results/revenue_by_region.png" />
 
 ### SQL Output – Top 5 Customers
-<img width="1765" height="816" alt="Excel_Dashboard" src="https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Results/top_customers.png" />
+<img width="600" height="350" alt="Excel_Dashboard" src="https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Results/top_customers.png" />
 
 ## Key Findings
 - Sales peaked in November and January but drastically decreased in December and February.
