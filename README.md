@@ -53,6 +53,8 @@ ecommerce-analytics/
 
 ### Excel Dashboard Preview
 [Excel Dashboard](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Results/Dashboard.png)
+<img width="1765" height="816" alt="Dashboard" src="https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Results/Dashboard.png" />
+
 
 ### Python Analysis – Revenue by Region
 [Revenue by Region](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Results/revenue_by_region.png)
