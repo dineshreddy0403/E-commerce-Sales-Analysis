@@ -17,7 +17,7 @@ ecommerce-analytics/
 │ └── queries.sql # Analysis queries
 ├── E-Commerce_Python.ipynb # Data preprocessing, analysis and visualization
 ├── Excel_Summary_Dashboard.xlsx # Excel dashboard
-├── data/
+├── ecommerce_data  # Dataset
 ├── results/
 │ ├── Dashboard.png
 │ ├── revenue_by_region.png
@@ -29,20 +29,18 @@ ecommerce-analytics/
 
 ## How to Run
 ### SQL
-1. Create a new database (e.g., MySQL/PostgreSQL).  
-2. Run [Run SQL Schema & Inserts](sql/schema_and_inserts.sql)
-`sql/schema_and_inserts.sql` to create tables and load sample data.  
-3. Run `sql/queries.sql` to execute analysis queries such as:  
+1. Create a new database.  
+2. Run [SQL Schema & Inserts](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/E-commerce_sql/schema_and_inserts.sql) to create tables and load sample data.  
+3. Run [Queries](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/E-commerce_sql/queries.sql) to execute analysis queries such as:  
    - Top 5 customers by total spending  
    - Total Revenue per product category
    - Region with the highest average order value
 ### Python
 1. Install dependencies: pandas, matplotlib
-2. Launch Jupyter Notebook:
-   ``` jupyter notebook python/analysis.ipynb ```
+2. Launch Jupyter Notebook: [ecommerce_python_analysis.ipynb](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/E-Commerce_Python.ipynb)
 3. Explore EDA: sales trend over time, category-wise sales distribution, revenue by region
 ### Excel
-1. Open excel/ecommerce_dashboard.xlsx
+1. Open [excel_summary_dashboard](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Excel_Summary_Dashboard.xlsx)
 2. Explore dashboards with KPIs:
    - Sales by region and category
    - Contribution of products to the revenue
