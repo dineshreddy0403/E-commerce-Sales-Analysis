@@ -37,10 +37,10 @@ ecommerce-analytics/
    - Region with the highest average order value
 ### Python
 1. Install dependencies: pandas, matplotlib
-2. Launch Jupyter Notebook: [ecommerce_python_analysis.ipynb](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/E-Commerce_Python.ipynb)
+2. Launch Jupyter Notebook: [Ecommerce Python Analysis.ipynb](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/E-Commerce_Python.ipynb)
 3. Explore EDA: sales trend over time, category-wise sales distribution, revenue by region
 ### Excel
-1. Open [excel_summary_dashboard](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Excel_Summary_Dashboard.xlsx)
+1. Open [Excel Summary Dashboard](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Excel_Summary_Dashboard.xlsx)
 2. Explore dashboards with KPIs:
    - Sales by region and category
    - Contribution of products to the revenue
@@ -52,13 +52,13 @@ ecommerce-analytics/
 ## Dashboard & Visuals
 
 ### Excel Dashboard Preview
-![Excel Dashboard](results/figures/dashboard_preview.png)
+[Excel Dashboard](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Results/Dashboard.png)
 
 ### Python Analysis – Revenue by Region
-![Revenue by Month](results/figures/revenue_by_month.png)
+[Revenue by Region](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Results/revenue_by_region.png)
 
 ### SQL Output – Top Customers
-![Top Customers](results/figures/top_customers.png)
+[Top Customers](https://github.com/dineshreddy0403/E-commerce-Sales-Analysis/blob/main/Results/top_customers.png)
 
 ## Key Findings
 - Sales peaked in November and January but drastically decreased in December and February.
